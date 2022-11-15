@@ -1,6 +1,6 @@
 Aufgabe 1)
 
-//TODO
+x = 4
 
 Aufgabe 2)
 
